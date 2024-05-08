@@ -58,10 +58,7 @@
 <br/>
 
 ## Top Projects - 
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=renmy&repo=lismynails.com&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Renmy/lismynails.com)
-[![Web PortFolio](https://github-readme-stats.vercel.app/api/pin/?username=renmy&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Renmy/Portfolio-website)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=renmy&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/renmy/web-projects)
-[![Renmy_Dev Readme](https://github-readme-stats.vercel.app/api/pin/?username=renmy&repo=renmy&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/renmy/)
+[![Lismynails.com](https://github-readme-stats.vercel.app/api/pin/?username=renmy&repo=lismynails.com&border_color=7F3FBF&bg_color=0d1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Renmy/lismynails.com)
 
 <p align="left">
   <a href="https://github.com/renmy?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
