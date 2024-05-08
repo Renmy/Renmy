@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://renmyedevportfolio.netlify.app/">Renmy</a></b>
+        <samp>&gt; Hey There!, 
+                <b><a target="_blank" href="https://renmyedevportfolio.netlify.app/">Renmy</a></b> is Here
         </samp>
 </h3>
 
@@ -32,8 +32,8 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 🚀 &emsp; Passion for Financial Markets, Forex and Crypto Currencies<br/><br/>
+ 🚀 &emsp; Love to writing code and learning new features<br/><br/>
+ ❤️ &emsp; Passion for Financial Markets, Forex and Crypto Currencies<br/><br/>
  📧 &emsp; For jobs or collaborations reach me anytime: renmyenriquez@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/renmy/issues)
 
@@ -90,4 +90,3 @@
 </a>
 
 
-![Renmy's Graph](https://github-readme-activity-graph.vercel.app/graph?username=renmy&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
