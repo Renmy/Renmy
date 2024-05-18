@@ -59,6 +59,7 @@
 
 ## Top Projects - 
 [![Lismynails.com](https://github-readme-stats.vercel.app/api/pin/?username=renmy&repo=lismynails.com&border_color=7F3FBF&bg_color=0d1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Renmy/lismynails.com)
+[![Yokai Slayer Mini-Game](https://github-readme-stats.vercel.app/api/pin/?username=renmy&repo=yokaiSlayer&border_color=7F3FBF&bg_color=0d1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Renmy/yokaiSlayer)
 
 <p align="left">
   <a href="https://github.com/renmy?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
