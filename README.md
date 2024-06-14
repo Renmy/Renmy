@@ -51,6 +51,8 @@
 
 ## Top Projects - 
 [![Lismynails.com](https://github-readme-stats.vercel.app/api/pin/?username=renmy&repo=lismynails.com&border_color=7F3FBF&bg_color=0d1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Renmy/lismynails.com)
+[![Lismynails.com](https://github-readme-stats.vercel.app/api/pin/?username=renmy&repo=forsurehired&border_color=7F3FBF&bg_color=0d1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Renmy/forsurehired)
+[![Lismynails.com](https://github-readme-stats.vercel.app/api/pin/?username=renmy&repo=kanban-board&border_color=7F3FBF&bg_color=0d1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Renmy/kanban-board)
 [![Yokai Slayer 2D-Game](https://github-readme-stats.vercel.app/api/pin/?username=renmy&repo=yokaiSlayer&border_color=7F3FBF&bg_color=0d1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Renmy/yokaiSlayer)
 
 <p align="left">
